@@ -1,3 +1,5 @@
+```
+
 apt update
 apt upgrade
 apt install git 
@@ -6,3 +8,4 @@ git clone
 https://github.com/06042004/sam
 cd sam.py
 python sam.py
+```
